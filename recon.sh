@@ -1,4 +1,5 @@
 #!/bin/bash
+## Using for automated scan for website ####
 
 domain=$1
 
